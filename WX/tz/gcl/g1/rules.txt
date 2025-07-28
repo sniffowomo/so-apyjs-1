@@ -1,0 +1,5 @@
+Objetive - Find only typos and grammatical mistakes etc ONLY in documentation 
+
+1. Find only tupos and grammatical errors only in the documentation of my repo store in gc1
+2. DO NOT MAKE CHANGE , draft a markdown repot in the folder calld rpz/ , with the date and time appended to the file. And the file itself wil have in it header a date and time and the entire query.
+    - This should be a detailed report of your finding and its impact
